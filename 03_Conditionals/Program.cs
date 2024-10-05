@@ -20,7 +20,7 @@ namespace _03_Conditionals
             //}
             //else { Console.WriteLine("Şifre yanlış"); }
 
-
+            Console.WriteLine("Yakup");
 
             #endregion
             Console.Read();
